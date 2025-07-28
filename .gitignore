@@ -1,13 +1,14 @@
-# Python virtual environments
+# Ignore virtual environments
 venv/
 venv310/
-__pycache__/
 
-# PyTorch model files
+# Ignore models and binaries
 *.safetensors
-*.pt
-*.pth
+*.dll
+*.lib
 
-# VSCode & system
-.vscode/
+# Python files and system
+__pycache__/
+*.pyc
 .DS_Store
+Thumbs.db
