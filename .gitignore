@@ -1,5 +1,13 @@
+# Python virtual environments
 venv/
+venv310/
 __pycache__/
-*.pyc
-models/model/model.safetensors
+
+# PyTorch model files
 *.safetensors
+*.pt
+*.pth
+
+# VSCode & system
+.vscode/
+.DS_Store
