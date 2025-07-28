@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - History.pdf",
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - Traditions and Culture.pdf",
+      "South of France - Restaurants and Hotels.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan comprehensive trips including accommodation, activities, and local guidance.",
+    "processing_timestamp": "2025-07-28T15:13:38.839527"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Content from page 1",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Hiking and Outdoor Activities",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "take you through the different types of food, famous dishes, must-visit restaurants, renowned",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Content from page 8",
+      "importance_rank": 5,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Content from page 2",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Packing for a trip to the South of France involves considering the season, planned activities,",
+      "importance_rank": 8,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "• Active Wear: If you plan on hiking or outdoor activities, pack activewear like leggings,",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "• Villeneuve-Loubet: Enjoy quirky attractions at Le Village des Fous.",
+      "importance_rank": 10,
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "detailing their history, key attractions, cultural highlights, and unique characteristics. Whether",
+      "importance_rank": 11,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "are some activities to enjoy by the sea:",
+      "importance_rank": 12,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Hotels",
+      "importance_rank": 13,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "stunning coastline, is also steeped in history. From ancient Roman ruins to medieval",
+      "importance_rank": 14,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Hotels",
+      "importance_rank": 15,
+      "page_number": 9
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Keep them separate from the originals. • Portable Laundry Kit: A small laundry kit with detergent and a travel clothesline can be handy for longer trips. • Multi-Purpose Shoes: Choose shoes that are comfortable for walking but can also be worn to a nice dinner.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience.",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "wine regions, and the types of wines they produce to help you plan an unforgettable culinary adventure.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Notebook: Bring a notebook to jot down notes about the wines you taste. • Water Bottle: Stay hydrated by drinking water between tastings. • Additional Tips: Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Additional Tips: Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving. Tips and Tricks for Packing • Check the Weather: Check the forecast before packing to ensure appropriate clothing. • Make a Packing List: Create a list to ensure nothing is forgotten.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Pack Dual-Purpose Items: Choose items that serve multiple purposes. • Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase space. • Pack a Day Bag: Bring a small day bag for daily excursions.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Pack a Day Bag: Bring a small day bag for daily excursions. • Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. • Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Packing Cubes: Use packing cubes to organize your clothes and maximize suitcase space. • Roll Your Clothes: Rolling clothes saves space and reduces wrinkles. • Travel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with airline regulations.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Travel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with airline regulations. • Reusable Bags: Pack a few reusable bags for laundry, shoes, or shopping. • First Aid Kit: Include a small first aid kit with band-aids, antiseptic wipes, and any necessary medications.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• First Aid Kit: Include a small first aid kit with band-aids, antiseptic wipes, and any necessary medications. • Copies of Important Documents: Make copies of your passport, travel insurance, and other important documents. Keep them separate from the originals.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Multi-Purpose Shoes: Choose shoes that are comfortable for walking but can also be worn to a nice dinner. • Travel Pillow and Blanket: A compact travel pillow and blanket can make long flights or train rides more comfortable. • Ziplock Bags: Use ziplock bags for liquids, snacks, or to keep items organized and protected from spills.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Remember to pack light, versatile clothing, and essential items to make the most of your travel experience. Bon voyage!",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Toiletries • Basic Toiletries: Toothbrush, toothpaste, shampoo, conditioner, body wash, deodorant, and personal hygiene items. • Skincare: Sunscreen, moisturizer, and daily skincare products. • Makeup: Pack essentials in a travel-sized makeup bag.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Makeup: Pack essentials in a travel-sized makeup bag. • Additional Items: A small sewing kit, nail clippers, and a razor. • Additional Tips: Consider packing a travel-sized perfume or cologne to freshen up on the go.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Additional Tips: Consider packing a travel-sized perfume or cologne to freshen up on the go. Gadgets and Accessories • Electronics: Smartphone, charger, power bank, and other devices. Bring a travel adapter if needed.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Bring a travel adapter if needed. • Camera: Capture memories with a camera, extra batteries, and memory cards. • Books and Entertainment: A book, e-reader, or tablet for entertainment during travel.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "fortresses and Renaissance architecture, this region offers a fascinating glimpse into the past. This guide will take you through the histories of major cities, famous historical sites, and other points of interest to help you plan an enriching and unforgettable trip.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "• Ziplock Bags: Use ziplock bags for liquids, snacks, or to keep items organized and protected from spills. • Emergency Contact List: Have a list of emergency contacts, including local embassy or consulate information.",
+      "page_number": 2
+    }
+  ]
+}

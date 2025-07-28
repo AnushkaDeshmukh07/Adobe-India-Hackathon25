@@ -1,0 +1,43 @@
+Collecting transformers<5.0.0,>=4.41.0
+  Using cached transformers-4.54.0-py3-none-any.whl.metadata (41 kB)
+Collecting huggingface-hub
+  Downloading huggingface_hub-0.34.1-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: filelock in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from transformers<5.0.0,>=4.41.0) (3.18.0)
+Requirement already satisfied: numpy>=1.17 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from transformers<5.0.0,>=4.41.0) (2.3.2)
+Collecting packaging>=20.0 (from transformers<5.0.0,>=4.41.0)
+  Using cached packaging-25.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting pyyaml>=5.1 (from transformers<5.0.0,>=4.41.0)
+  Using cached PyYAML-6.0.2-cp313-cp313-win_amd64.whl.metadata (2.1 kB)
+Requirement already satisfied: regex!=2019.12.17 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from transformers<5.0.0,>=4.41.0) (2024.11.6)
+Collecting requests (from transformers<5.0.0,>=4.41.0)
+  Using cached requests-2.32.4-py3-none-any.whl.metadata (4.9 kB)
+Collecting tokenizers<0.22,>=0.21 (from transformers<5.0.0,>=4.41.0)
+  Using cached tokenizers-0.21.2-cp39-abi3-win_amd64.whl.metadata (6.9 kB)
+Collecting safetensors>=0.4.3 (from transformers<5.0.0,>=4.41.0)
+  Using cached safetensors-0.5.3-cp38-abi3-win_amd64.whl.metadata (3.9 kB)
+Requirement already satisfied: tqdm>=4.27 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from transformers<5.0.0,>=4.41.0) (4.67.1)
+Requirement already satisfied: fsspec>=2023.5.0 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from huggingface-hub) (2025.7.0)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from huggingface-hub) (4.14.1)
+Requirement already satisfied: colorama in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from tqdm>=4.27->transformers<5.0.0,>=4.41.0) (0.4.6)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\hp\onedrive\desktop\adobe-hackathon-round1b\venv\lib\site-packages (from requests->transformers<5.0.0,>=4.41.0) (3.4.2)
+Collecting idna<4,>=2.5 (from requests->transformers<5.0.0,>=4.41.0)
+  Using cached idna-3.10-py3-none-any.whl.metadata (10 kB)
+Collecting urllib3<3,>=1.21.1 (from requests->transformers<5.0.0,>=4.41.0)
+  Using cached urllib3-2.5.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting certifi>=2017.4.17 (from requests->transformers<5.0.0,>=4.41.0)
+  Using cached certifi-2025.7.14-py3-none-any.whl.metadata (2.4 kB)
+Downloading transformers-4.54.0-py3-none-any.whl (11.2 MB)
+   ----------------------------- 11.2/11.2 MB 321.3 kB/s eta 0:00:00
+Downloading huggingface_hub-0.34.1-py3-none-any.whl (558 kB)
+   --------------------------- 558.8/558.8 kB 383.2 kB/s eta 0:00:00
+Using cached tokenizers-0.21.2-cp39-abi3-win_amd64.whl (2.5 MB)
+Using cached packaging-25.0-py3-none-any.whl (66 kB)
+Using cached PyYAML-6.0.2-cp313-cp313-win_amd64.whl (156 kB)
+Using cached safetensors-0.5.3-cp38-abi3-win_amd64.whl (308 kB)
+Using cached requests-2.32.4-py3-none-any.whl (64 kB)
+Using cached idna-3.10-py3-none-any.whl (70 kB)
+Using cached urllib3-2.5.0-py3-none-any.whl (129 kB)
+Using cached certifi-2025.7.14-py3-none-any.whl (162 kB)
+Installing collected packages: urllib3, safetensors, pyyaml, packaging, idna, certifi, requests, huggingface-hub, tokenizers, transformers
+
+Successfully installed certifi-2025.7.14 huggingface-hub-0.34.1 idna-3.10 packaging-25.0 pyyaml-6.0.2 requests-2.32.4 safetensors-0.5.3 tokenizers-0.21.2 transformers-4.54.0 urllib3-2.5.0

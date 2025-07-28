@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  pdf-processor:
+    build: .
+    container_name: pdf-processor
+    volumes:
+      - ./input_pdfs:/app/input_pdfs
+      - ./output:/app/output
+    environment:
+      - PYTHONPATH=/app
+      - TRANSFORMERS_CACHE=/app/.cache/transformers
+      - SENTENCE_TRANSFORMERS_HOME=/app/.cache/sentence_transformers
+    # Remove network access for offline operation
+    network_mode: none
+    restart: "no"
